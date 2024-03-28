@@ -1,0 +1,48 @@
+name: projectfinal
+description: A new Flutter project
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  carousel_slider: ^4.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/products/ayodhaya.jpeg
+    - images/products/cool.jpeg
+    - images/products/delhi.jpeg
+    - images/products/dhera.jpeg
+    - images/products/goa.jpeg
+    - images/products/kashmir.jpeg
+    - images/products/kashmir1.jpeg
+    - images/products/amaravati.jpeg
+    - images/products/hyd.jpeg
+    - images/products/banglore.jpeg
+    - images/products/kasi.jpeg
+    - images/products/kerela.jpeg
+    - images/products/mountains.jpeg
+    - images/products/puri.jpeg
+    - images/products/rmaeshwaram.jpeg
+    - images/products/sriranganadth.jpeg
+    - images/products/taj.jpeg
+    - images/products/tirupati.jpeg
+    - images/cats/beaches.jpeg
+    - images/cats/deserts.jpeg
+    - images/cats/devo.jpeg
+    - images/cats/devoational.jpeg
+    - images/cats/lakes.jpeg
+    - images/cats/mountains.jpeg
+    - images/cats/snow.jpeg
+    - images/cats/summer (2).jpeg
+
